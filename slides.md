@@ -3,6 +3,8 @@
 
 <p class="who">Anthony Dahanne - Colloque des professions du CSSDM - Vendredi 13 Novembre 2026</p>
 
+<div class="qr"><img src="images/qr-code.svg" alt="Code QR vers la présentation en ligne"><span>Les diapos sur ton téléphone</span></div>
+
 Note:
 Dire bonjour, annoncer le plan en une phrase : comment le métier a évolué, comment on travaille en équipe, comment le devenir, et ce que l'IA change.
 
